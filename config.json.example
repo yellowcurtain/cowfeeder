@@ -1,0 +1,11 @@
+{
+  "network": "xDai",
+  "http_provider_url": "https://rpc.xdaichain.com/",
+  "your_wallet_address": "0x..........",
+  "private_key": "your_wallet_address_private_key",
+  "sell_token_address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+  "buy_token_address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
+  "sell_token_amount": "0.5",
+  "least_buy_token_amount": "0.49",
+  "target_gas_price": "1"
+}
